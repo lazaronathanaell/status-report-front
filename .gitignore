@@ -1,5 +1,6 @@
 .env
 .venv
+/.venv
 .dvc
 auto-compose.log
 __pycache__
@@ -7,3 +8,4 @@ notebooks/
 
 pipeline_question_answering/data
 docs/
+data/
