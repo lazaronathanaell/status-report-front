@@ -4,7 +4,7 @@ from fitz import Document
 from io import BytesIO
 from typing import Optional
 
-from ..image_extract import is_page_scanned, extract_ocr_from_page
+from .image_extract import is_page_scanned, extract_ocr_from_page
 
 def extract_text_from_page(page: fitz.Page) -> str:
     return f'{page.get_text()}\f'

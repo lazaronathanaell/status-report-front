@@ -2,7 +2,7 @@ import logging
 from datetime import datetime, date
 from typing import Dict, Any, Literal, Optional, Union, Type, List
 from sqlalchemy.orm import Session
-from ...database.session import get_db
+#from ...database.session import get_db
 from ...models.pdf import PDF
 import unicodedata
 from difflib import SequenceMatcher

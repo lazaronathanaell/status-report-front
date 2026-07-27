@@ -1,6 +1,15 @@
 import os
+import sys
 import json
+from pathlib import Path
 from PyPDF2 import PdfReader, PdfWriter
+
+# Configurar caminhos - adiciona o diretório raiz do projeto ao sys.path
+current_dir = Path(__file__).parent
+project_root = current_dir.parent.parent  # Sobe até seplag-govdados-ciencia-dados-API
+sys.path.insert(0, str(project_root))
+
+from batch_extract_documents import read_file_bytes, extract_text_from_document, process_documents
 
 # === Caminhos ===
 script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -32,7 +41,7 @@ def agrupar_repercussao(doc_map):
 
 # === Processa cada NUP do índice agrupado por mês ===
 
-for month, month_docs in index.items():
+for month, month_docs in list(index.items())[:1]:  # Limita a um mês para teste
     if not isinstance(month_docs, dict):
         continue
 
@@ -46,7 +55,7 @@ for month, month_docs in index.items():
         out_dir = os.path.join(output_root, nup)
         os.makedirs(out_dir, exist_ok=True)
 
-        #doc_map = agrupar_repercussao(doc_map)
+       
 
         for doc_name, pages in doc_map.items():
             writer = PdfWriter()
@@ -81,6 +90,36 @@ for month, month_docs in index.items():
                 writer.write(f_out)
 
             print(f"✅ Gerado: {output_file}")
+
+            # Processa o documento recém-gerado
+            extracted_text, tipo_doc, status_info = extract_text_from_document(
+                output_file,
+                doc_name,
+                nome_servidor=doc_map.get("nome", ""),
+            )
+
+            # Salvar o resultado do processamento em um arquivo JSON
+            result_data = {
+                "nup": nup,
+                "content_type": doc_name,
+                "arquivo_original": f"{doc_name}.pdf",
+                "tipo_documento": tipo_doc,
+                "extracted_text": extracted_text,
+                "status": status_info,
+                "metadata": {
+                    "nome_servidor": doc_map.get("nome", ""),
+                    "matricula": doc_map.get("matricula", ""),
+                    "data": doc_map.get("data", ""),
+                    "titulacao_atual": doc_map.get("titulacao_atual", ""),
+                    "titulacao_almejada": doc_map.get("titulacao_almejada", ""),
+                }
+            }
+
+            json_output_file = os.path.join(out_dir, f"{doc_name}.json")
+            with open(json_output_file, "w", encoding="utf-8") as f_json:
+                json.dump(result_data, f_json, ensure_ascii=False, indent=4)
+            
+
 
 
 print("🏁 Finalizado com sucesso!")
