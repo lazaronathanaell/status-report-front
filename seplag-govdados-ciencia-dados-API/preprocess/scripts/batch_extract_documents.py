@@ -84,7 +84,7 @@ def extract_text_from_document(file_path: str, content_type: str, nome_servidor:
                 linhas_acima=4, 
                 linhas_abaixo=8
             )
-            return extracted_text, tipo_doc, {"status": "sucesso", "tipo": tipo_doc}
+            return [extracted_text], tipo_doc, {"status": "sucesso", "tipo": tipo_doc}
 
         else:
             # Extração padrão
@@ -115,10 +115,10 @@ def extract_text_from_document(file_path: str, content_type: str, nome_servidor:
                     
                     
                     final_text = "\n\n".join(combined).strip()
-                    return final_text, tipo_doc, {"status": "sucesso", "tipo": tipo_doc}
+                    return [final_text], tipo_doc, {"status": "sucesso", "tipo": tipo_doc}
                 except Exception as e:
                     logger.error(f"Erro no tratamento REPERCUSSAO_FINANCEIRA: {e}")
-                    return extracted_text, tipo_doc, {"status": "erro", "motivo": str(e)}
+                    return [extracted_text], tipo_doc, {"status": "erro", "motivo": str(e)}
 
             # Tratamento especial: Parecer ASJUR
             if tipo_doc == "PARECER_ASJUR":
@@ -129,7 +129,10 @@ def extract_text_from_document(file_path: str, content_type: str, nome_servidor:
 
                     # Se houver primeira página e páginas finais, insere marcador (...) no meio
                     if pag1 and pag_finais:
-                        final_text = pag1 + "\n\n(... )\n\n" + '\n\n'.join(pag_finais)
+                        final_text = []
+                        final_text.append(pag1)
+                        final_text.append('\n\n'.join(pag_finais))
+                        #final_text = pag1 + "\n\n(... )\n\n" + '\n\n'.join(pag_finais)
                     else:
                         final_parts = []
                         if pag1:
@@ -137,11 +140,12 @@ def extract_text_from_document(file_path: str, content_type: str, nome_servidor:
                         if pag_finais:
                             final_parts.append('\n\n'.join(pag_finais))
 
-                        final_text = '\n\n'.join(final_parts).strip()
+                        
+                        #final_text = '\n\n'.join(final_parts).strip()
                     return final_text, tipo_doc, {"status": "sucesso", "tipo": tipo_doc}
                 except Exception as e:
                     logger.error(f"Erro no tratamento PARECER_ASJUR: {e}")
-                    return extracted_text, tipo_doc, {"status": "erro", "motivo": str(e)}
+                    return [extracted_text], tipo_doc, {"status": "erro", "motivo": str(e)}
 
             # Extração especial para DOE
             if tipo_doc == "DOE":
@@ -152,7 +156,7 @@ def extract_text_from_document(file_path: str, content_type: str, nome_servidor:
                     tipo_documento=tipo_documento
                 )
 
-            return extracted_text, tipo_doc, {"status": "sucesso", "tipo": tipo_doc}
+            return [extracted_text], tipo_doc, {"status": "sucesso", "tipo": tipo_doc}
 
     except Exception as e:
         logger.error(f"Erro ao processar {file_path}: {str(e)}")
