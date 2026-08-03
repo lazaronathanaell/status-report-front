@@ -1,0 +1,1033 @@
+{
+    "JANEIRO":{
+
+    "22001135305202440": {
+
+    "nome": "JOSE DA ROCHA LIMA FILHO",
+    "data": "07/11/2024",
+    "matricula": ["97943850"],
+    "titulacao_atual": "Licenciatura Plena",
+    "titulacao_almejada": "Especialização",
+    "diploma": [15, 16],
+    "doe": 20,
+    "parecer_cepro": 22,
+    "portaria": 45,
+    "oficio": 46,
+    "declaracao_orcamentaria": 35,
+    "repercussao_financeira_pg_01": 25,
+    "repercussao_financeira_pg_02": 26,
+    "parecer_asjur": [38, 44],
+
+    "parecer_negativo": true
+  },
+
+  "22001127982202494": {
+
+     "nome": "MATHEUS COELHO INOCENCIO",
+    "data": "18/10/2024",
+    "matricula": ["97939888"],
+    "titulacao_atual": "Especialização",
+    "titulacao_almejada": "Mestrado",
+    "declaracao_conclusao_curso": 15,
+    "doe": 56,
+    "oficio": 65,
+    "portaria": 63,
+    "parecer_cepro": 20,
+    "declaracao_orcamentaria": 51,
+    "repercussao_financeira_pg_01": 24,
+    "repercussao_financeira_pg_02": 25,
+    "parecer_asjur": [58, 62]
+  },
+
+   "22001136845202441": {
+
+    "nome": "DAMIAO FERREIRA DA SILVA COSTA",
+    "data": "11/11/2024",
+    "matricula": ["97938377"],
+    "titulacao_atual": "Mestrado",
+    "titulacao_almejada": "Doutorado",
+    "parecer_cepro": 28,
+    "declaracao_conclusao_curso_imagem": 13,
+    "doe_imagem": 31,
+    "repercussao_financeira_pg_01": 34,
+    "repercussao_financeira_pg_02": 33,
+    "declaracao_orcamentaria": 59,
+    "oficio": 70,
+    "portaria": 69,
+    "parecer_asjur": [62, 68]
+  }
+
+
+
+  },
+
+
+   "MARCO":{
+
+
+    "22001108391202418": {
+
+        "nome": "MARIA DE FÁTIMA FARIAS DE LIMA",
+        "data": "02/09/2024",
+        "matricula": ["30603052"],
+        "titulacao_atual": "Licenciatura Plena",
+        "titulacao_almejada": "Doutorado",
+        "diploma": [13, 14],
+
+        "doe_imagem": 23,
+        "portaria": 94,
+        "oficio": 45,
+        "declaracao_orcamentaria_ano_anterior": 91,
+        "declaracao_orcamentaria": 92,
+        "repercussao_financeira_pg_01": 25,
+        "repercussao_financeira_pg_02": 24,
+        "parecer_asjur": [39, 43],
+        "parecer_cepro": 20
+    }
+
+
+
+    },
+
+    "ABRIL": {
+
+        "22001003390202569": {
+
+
+        "nome": "FLAVIO BRITO DE SENA JUNIOR",
+        "data": "15/01/2025",
+        "matricula": ["97942838"],
+        "titulacao_atual": "Licenciatura Plena",
+        "titulacao_almejada": "Doutorado",
+        
+    
+        "parecer_cepro": 85,
+        "declaracao_conclusao_curso_imagem": 84,
+        "doe": 53,
+        "portaria": 68,
+        "oficio": 69,
+        "declaracao_orcamentaria": 62,
+        "repercussao_financeira_pg_01": 33,
+        "repercussao_financeira_pg_02": 34,
+        "parecer_asjur": [64, 67],
+        "parecer_negativo": true
+    },
+
+    "22001114029202486": {
+
+    "nome": "MARISNANDA MOTA ARAUJO",
+    "data": "13/09/2024",
+    "matricula": ["4825912X"],
+    "titulacao_atual": "Licenciatura Plena",
+    "titulacao_almejada": "Mestrado",
+
+
+    "parecer_cepro": 19,
+    "diploma": [10, 11],
+    "doe": 22,
+    "portaria": 42,
+    "oficio": 43,
+    "declaracao_orcamentaria_ano_anterior": 34,
+    "declaracao_orcamentaria": 35,
+    "repercussao_financeira_pg_01": 24,
+    "repercussao_financeira_pg_02": 25,
+    "parecer_asjur": [37, 41]
+  },
+
+  "22001128428202424": {
+
+
+    "nome": "MARIA JESSICA XIMENES SOUSA",
+    "data": "18/10/2024",
+    "matricula": ["48260780"],
+    "titulacao_atual": "Licenciatura Plena",
+    "titulacao_almejada": "Especialização",
+
+
+    "parecer_cepro": 19,
+    "diploma": [10, 11],
+    "doe": 22,
+    "portaria": 41,
+    "oficio": 42,
+    "declaracao_orcamentaria_ano_anterior": 34,
+    "declaracao_orcamentaria": 35,
+    "repercussao_financeira_pg_01": 24,
+    "repercussao_financeira_pg_02": 25,
+    "parecer_asjur": [37, 40]
+  },
+
+  "22001003125202581": {
+
+    "nome": "WENDERSON DE JESUS ANDRADE MARIANO",
+    "data": "14/01/2025",
+    "matricula": ["97943966"],
+    "titulacao_atual": "Licenciatura Plena",
+    "titulacao_almejada": "Especialização",
+
+
+    "parecer_cepro": 14,
+    "diploma": [9, 10],
+    "doe": 17,
+    "portaria": 36,
+    "oficio": 37,
+    "declaracao_orcamentaria": 29,
+    "repercussao_financeira_pg_01": 19,
+    "repercussao_financeira_pg_02": 20,
+    "parecer_asjur": [31, 35]
+  },
+
+   "22001102649202472": {
+
+    "nome": "ORLANDO DA SILVA RIBEIRO",
+    "data": "20/08/2024",
+    "matricula": ["4825814X"],
+    "titulacao_atual": "Licenciatura Plena",
+    "titulacao_almejada": "Mestrado",
+
+    "diploma": 13,
+    "parecer_cepro": 22,
+    "doe": 25,
+    "portaria": 45,
+    "oficio": 46,
+    "declaracao_orcamentaria_ano_anterior": 37,
+    "declaracao_orcamentaria": 38,
+    "repercussao_financeira_pg_01": 27,
+    "repercussao_financeira_pg_02": 28,
+    "parecer_asjur": [40, 44]
+  },
+
+  "22001051824202537": {
+
+    "nome": "RENATA PASSOS MACHADO VIEIRA",
+    "data": "17/03/2025",
+    "matricula": ["30287614"],
+    "titulacao_atual": "Mestrado",
+    "titulacao_almejada": "Doutorado",
+
+
+    "parecer_cepro": 34,
+    "declaracao_conclusao_curso": 20,
+    "doe": 37,
+    "portaria": 56,
+    "oficio": 57,
+    "declaracao_orcamentaria": 49,
+    "repercussao_financeira_pg_01": 39,
+    "repercussao_financeira_pg_02": 40,
+    "parecer_asjur": [51, 55]
+  },
+
+  "22001123895202468": {
+
+    "nome": "FERNANDA LINHARES MOREIRA LOPES",
+    "data": "08/10/2024",
+    "matricula": ["48259251"],
+    "titulacao_atual": "Licenciatura Plena",
+    "titulacao_almejada": "Especialização",
+
+    "diploma": 10,
+    "parecer_cepro": 18,
+    "doe": 21,
+    "portaria": 43,
+    "oficio": 44,
+    "declaracao_orcamentaria_ano_anterior": 33,
+    "declaracao_orcamentaria": 34,
+    "repercussao_financeira_pg_01": 23,
+    "repercussao_financeira_pg_02": 24,
+    "parecer_asjur": [36, 42]
+  }
+
+
+
+},
+"JUNHO": {
+
+    "22001086866202599": {
+    
+    "nome": "FRANCISCO WENDEL CIPRIANO DE OLIVEIRA",
+    "data": "27/05/2025",
+    "matricula": ["97938318"],
+    "titulacao_atual": "Mestrado",
+    "titulacao_almejada": "Doutorado",
+
+    "parecer_cepro": 27,
+    "declaracao_conclusao_curso": 13,
+    "doe": 30,
+    "portaria": 50,
+    "oficio": 51,
+    "declaracao_orcamentaria": 42,
+    "repercussao_financeira_pg_01": 32,
+    "repercussao_financeira_pg_02": 33,
+    "parecer_asjur": [45, 49]
+  },
+
+  "22001075231202566": {
+
+
+    "nome": "SAMIA CAMILA DA SILVA ALMEIDA MENDES",
+    "data": "05/05/2025",
+    "matricula": ["4826381X"],
+    "titulacao_atual": "Licenciatura Plena",
+    "titulacao_almejada": "Especialização",
+
+
+    "diploma": 19,
+    "parecer_cepro": 22,
+    "doe": 25,
+    "portaria": 44,
+    "oficio": 45,
+    "declaracao_orcamentaria": 37,
+    "repercussao_financeira_pg_01": 27,
+    "repercussao_financeira_pg_02": 28,
+    "parecer_asjur": [39, 43]
+  },
+
+  "22001030689202596": {
+     
+    
+    "nome": "MARIA LUCIANE SILVA DE MEDEIROS",
+    "data": "12/02/2025",
+    "matricula": ["97937699"],
+    "titulacao_atual": "Licenciatura Plena",
+    "titulacao_almejada": "Especialização",
+
+    "diploma": 7,
+    "parecer_cepro": 18,
+    "doe": 21,
+    "portaria": 40,
+    "oficio": 41,
+    "declaracao_orcamentaria": 33,
+    "repercussao_financeira_pg_01": 23,
+    "repercussao_financeira_pg_02": 24,
+    "parecer_asjur": [35, 39]
+  }
+
+
+
+    },
+
+    
+    "AGOSTO":{
+
+    "22001002394202520": {
+    
+
+    "nome": "DANIELE AMBROZIO DE FREITAS",
+    "data": "10/01/2025",
+    "matricula": ["48264743"],
+    "titulacao_atual": "Licenciatura Plena",
+    "titulacao_almejada": "Especialização",
+
+    "diploma": 15,
+    "parecer_cepro": 18,
+    "doe": 21,
+    "repercussao_financeira_pg_01": 23,
+    "repercussao_financeira_pg_02": 24,
+    "declaracao_orcamentaria": 33,
+    "parecer_asjur": [35, 39],
+    "portaria": 40,
+    "oficio": 41,
+
+    "parecer_negativo": true
+  },
+
+  "22001030561202522": {
+
+
+    "nome": "JACKSON NASCIMENTO DA SILVA",
+    "data": "12/02/2025",
+    "matricula": ["97933391"],
+    "titulacao_atual": "Licenciatura Plena",
+    "titulacao_almejada": "Especialização",
+
+    "diploma": 10,
+    "parecer_cepro": 14,
+    "doe": 17,
+    "repercussao_financeira_pg_01": 19,
+    "repercussao_financeira_pg_02": 20,
+    "declaracao_orcamentaria": 29,
+    "parecer_asjur": [31, 35],
+    "portaria": 36,
+    "oficio": 37
+  },
+
+
+   "22001032110202520": {
+
+    "nome": "RAPHAEL MARTINS PAIVA",
+    "data": "13/02/2025",
+    "matricula": ["97944067"],
+    "titulacao_atual": "Licenciatura Plena",
+    "titulacao_almejada": "Mestrado",
+
+    "diploma": 11,
+    "parecer_cepro": 23,
+    "doe": 26,
+    "repercussao_financeira_pg_01": 27,
+    "repercussao_financeira_pg_02": 28,
+    "declaracao_orcamentaria": 37,
+    "parecer_asjur": [39, 43],
+    "portaria": 44,
+    "oficio": 45
+  },
+
+  "22001035124202503": {
+
+    "nome": "SUELLEN BARBOSA MACHADO",
+    "data": "17/02/2025",
+    "matricula": ["3060881X"],
+    "titulacao_atual": "Licenciatura Plena",
+    "titulacao_almejada": "Mestrado",
+
+    "diploma": 11,
+    "parecer_cepro": 20,
+    "doe": 25,
+    "repercussao_financeira_pg_01": 22,
+    "repercussao_financeira_pg_02": 24,
+    "declaracao_orcamentaria": 35,
+    "parecer_asjur": [37, 41],
+    "portaria": 42,
+    "oficio": 43
+  },
+
+  "22001044007202522": {
+
+    "nome": "JULIANA MARQUES DE SOUSA",
+    "data": "27/02/2025",
+    "matricula": ["48260039"],
+    "titulacao_atual": "Licenciatura Plena",
+    "titulacao_almejada": "Doutorado",
+
+
+    "declaracao_conclusao_curso_imagem": 15,
+    "parecer_cepro": 29,
+    "doe": 32,
+    "repercussao_financeira_pg_01": 34,
+    "repercussao_financeira_pg_02": 35,
+    "declaracao_orcamentaria": 44,
+    "parecer_asjur": [46, 49],
+    "portaria": 50,
+    "oficio": 51
+  },
+
+  "22001049250202537": {
+
+    
+    "nome": "MARCELLA DEHARA PEREIRA CASTELUCCI",
+    "data": "11/03/2025",
+    "matricula": ["30608712"],
+    "titulacao_atual": "Licenciatura Plena",
+    "titulacao_almejada": "Mestrado",
+
+    "diploma":12,
+    "parecer_cepro": 19,
+    "doe": 22,
+    "repercussao_financeira_pg_01": 24,
+    "repercussao_financeira_pg_02": 25,
+    "declaracao_orcamentaria": 34,
+    "parecer_asjur": [36, 40],
+    "portaria": 41,
+    "oficio": 42
+  },
+
+   "22001052898202591": {
+
+    "nome": "VIGEVANDO ARAUJO DE SOUSA",
+    "data": "18/03/2025",
+    "matricula": ["47971012"],
+    "titulacao_atual": "Mestrado",
+    "titulacao_almejada": "Doutorado",
+
+    "diploma":10,
+    "parecer_cepro": 19,
+    "doe": 21,
+    "repercussao_financeira_pg_01": 81,
+    "repercussao_financeira_pg_02": 82,
+    "declaracao_orcamentaria": 89,
+    "parecer_asjur": [91, 94],
+    "portaria": 95,
+    "oficio": 74
+  },
+
+  "22001085356202502": {
+
+    "nome": "NATAN DOS SANTOS RODRIGUES JUNIOR",
+    "data": "23/05/2025",
+    "matricula": ["97940754"],
+    "titulacao_atual": "Mestrado",
+    "titulacao_almejada": "Doutorado",
+
+    "declaracao_conclusao_curso": 23,
+    "parecer_cepro": 26,
+    "doe": 29,
+    "repercussao_financeira_pg_01": 31,
+    "repercussao_financeira_pg_02": 32,
+    "declaracao_orcamentaria": 41,
+    "parecer_asjur": [43, 46],
+    "portaria": 47,
+    "oficio": 48
+  },
+
+  "22001088539202571": {
+
+    "nome": "ANA CAROLINA MUNIZ",
+    "data": "30/05/2025",
+    "matricula": ["30608607"],
+    "titulacao_atual": "Licenciatura Plena",
+    "titulacao_almejada": "Especialização",
+
+    "diploma":20,
+    "parecer_cepro": 22,
+    "doe_imagem": 25,
+    "repercussao_financeira_pg_01": 27,
+    "repercussao_financeira_pg_02": 28,
+    "declaracao_orcamentaria": 37,
+    "parecer_asjur": [39, 43],
+    "portaria": 44,
+    "oficio": 45
+  },
+
+  "22001089314202532": {
+
+    "nome": "LEANDRO ALVES BARBOSA",
+    "data": "02/06/2025",
+    "matricula": ["97947376"],
+    "titulacao_atual": "Licenciatura Plena",
+    "titulacao_almejada": "Mestrado",
+
+    "diploma":10,
+    "parecer_cepro": 21,
+    "doe": 24,
+    "repercussao_financeira_pg_01": 26,
+    "repercussao_financeira_pg_02": 27,
+    "declaracao_orcamentaria": 36,
+    "parecer_asjur": [39, 43],
+    "portaria": 44,
+    "oficio": 45
+  },
+
+  "22001090412202512": {
+
+    "nome": "MAYRA FERNANDES LIMA",
+    "data": "04/06/2025",
+    "matricula": ["48259510"],
+    "titulacao_atual": "Licenciatura Plena",
+    "titulacao_almejada": "Especialização",
+
+    "diploma":21,
+    "parecer_cepro": 27,
+    "doe": 30,
+    "repercussao_financeira_pg_01": 31,
+    "repercussao_financeira_pg_02": 32,
+    "declaracao_orcamentaria": 45,
+    "parecer_asjur": [47, 51],
+    "portaria": 52,
+    "oficio": 53
+  },
+
+  "22001092745202586": {
+
+    "nome": "RACHEL SANTOS ROLIM",
+    "data": "09/06/2025",
+    "matricula": ["30268210"],
+    "titulacao_atual": "Licenciatura Plena",
+    "titulacao_almejada": "Especialização",
+
+    "diploma":8,
+    "parecer_cepro": 20,
+    "repercussao_financeira_pg_01": 22,
+    "repercussao_financeira_pg_02": 23,
+    "doe": 24,
+    "declaracao_orcamentaria": 35,
+    "parecer_asjur": [37, 41],
+    "portaria": 42,
+    "oficio": 43
+  },
+
+  "22001092976202590": {
+
+    "nome": "PATRÍCIA DE SOUSA ARAUJO MAGALHAES",
+    "data": "10/06/2025",
+    "matricula": ["97934320"],
+    "titulacao_atual": "Especialização",
+    "titulacao_almejada": "Mestrado",
+
+    "parecer_cepro": 31,
+    "declaracao_conclusao_curso": 30,
+    "doe": 34,
+    "repercussao_financeira_pg_01": 36,
+    "repercussao_financeira_pg_02": 37,
+    "declaracao_orcamentaria": 47,
+    "parecer_asjur": [49, 53],
+    "portaria": 54,
+    "oficio": 55
+  },
+
+   "22001093491202513": {
+
+    "nome": "KAMILLA KARLLA VIEIRA ALCANTARA",
+    "data": "10/06/2025",
+    "matricula": ["97936021"],
+    "titulacao_atual": "Especialização",
+    "titulacao_almejada": "Mestrado",
+
+    "diploma": 9,
+    "parecer_cepro": 40,
+    "doe": 43,
+    "repercussao_financeira_pg_01": 45,
+    "repercussao_financeira_pg_02": 46,
+    "declaracao_orcamentaria": 55,
+    "parecer_asjur": [57, 61],
+    "portaria": 62,
+    "oficio": 63,
+    "parecer_negativo": true
+  },
+
+  "22001099138202547": {
+
+    "nome": "NADIR MOURA VIEIRA",
+    "data": "26/06/2025",
+    "matricula": ["97947430"],
+    "titulacao_atual": "Licenciatura Plena",
+    "titulacao_almejada": "Especialização",
+
+    "diploma":11,
+    "parecer_cepro": 17,
+    "doe": 20,
+    "repercussao_financeira_pg_01": 22,
+    "repercussao_financeira_pg_02": 23,
+    "declaracao_orcamentaria": 32,
+    "parecer_asjur": [34, 38],
+    "portaria": 39,
+    "oficio": 40
+  },
+
+  "22001101746202529": {
+
+    "nome": "ANTONIO FRANCISCO MOUTA VASCONCELOS",
+    "data": "03/07/2025",
+    "matricula": ["30602730"],
+    "titulacao_atual": "Especialização",
+    "titulacao_almejada": "Mestrado",
+
+    "diploma":62,
+    "parecer_cepro": 39,
+    "doe": 42,
+    "repercussao_financeira_pg_01": 44,
+    "repercussao_financeira_pg_02": 45,
+    "declaracao_orcamentaria": 54,
+    "parecer_asjur": [56, 60],
+    "portaria": 64,
+    "oficio": 65
+  },
+
+  "22001108034202531": {
+
+    "nome": "TIAGO JOSIMAR DA SILVA",
+    "data": "31/07/2025",
+    "matricula": ["30207319"],
+    "titulacao_atual": "Especialização",
+    "titulacao_almejada": "Mestrado",
+
+    
+    "parecer_cepro": 34,
+    "declaracao_conclusao_curso": 15,
+    "doe": 37,
+    "repercussao_financeira_pg_01": 40,
+    "repercussao_financeira_pg_02": 41,
+    "declaracao_orcamentaria": 50,
+    "parecer_asjur": [52, 56],
+    "portaria": 57,
+    "oficio": 58
+  },
+
+  "22001112553202501": {
+
+    "nome": "DENILMA MARIA DE ASSIS FERNANDES",
+    "data": "06/08/2025",
+    "matricula": ["30181018"],
+    "titulacao_atual": "Especialização",
+    "titulacao_almejada": "Mestrado",
+
+    "declaracao_conclusao_curso": 20,
+    "parecer_cepro": 21,
+    "doe": 24,
+    "repercussao_financeira_pg_01": 26,
+    "repercussao_financeira_pg_02": 27,
+    "declaracao_orcamentaria": 36,
+    "parecer_asjur": [38, 42],
+    "portaria": 43,
+    "oficio": 44
+  },
+
+  "22001120308202489": {
+
+    "nome": "BARBARA CORREIA DE OLIVEIRA",
+    "data": "30/09/2024",
+    "matricula": ["30603370"],
+    "titulacao_atual": "Licenciatura Plena",
+    "titulacao_almejada": "Mestrado",
+
+    "diploma": 9,
+    "parecer_cepro": 16,
+    "doe": 19,
+    "repercussao_financeira_pg_01": 21,
+    "repercussao_financeira_pg_02": 22,
+    "declaracao_orcamentaria_ano_anterior": 31,
+    "declaracao_orcamentaria": 32,
+    "parecer_asjur": [39, 43],
+    "portaria": 44,
+    "oficio": 45
+  },
+
+  "22001132218202431": {
+
+    "nome": "INGRID CORDEIRO SAMPAIO",
+    "data": "30/10/2024",
+    "matricula": ["48258956"],
+    "titulacao_atual": "Licenciatura Plena",
+    "titulacao_almejada": "Mestrado",
+
+    "diploma":10,
+    "parecer_cepro": 20,
+    "doe": 23,
+    "repercussao_financeira_pg_01": 25,
+    "repercussao_financeira_pg_02": 26,
+    "declaracao_orcamentaria_ano_anterior": 35,
+    "declaracao_orcamentaria": 36,
+    "parecer_asjur": [38, 42],
+    "portaria": 43,
+    "oficio": 44
+  }
+
+
+    },
+
+    
+    
+    "OUTUBRO": {
+
+    "22001149961202519": {
+    "nome": "JOSE EDUARDO DE SOUSA SABINO",
+    "data": "16/10/2025",
+    "matricula": ["48262597"],
+    "titulacao_atual": "Especialização",
+    "titulacao_almejada": "Mestrado",
+    "diploma": 12,
+    "parecer_cepro": 34,
+    "doe": 37,
+    "repercussao_financeira_pg_01": 39,
+    "repercussao_financeira_pg_02": 40,
+    "declaracao_orcamentaria": 49,
+    "parecer_asjur": [51, 55],
+    "portaria": 56,
+    "oficio": 57
+  },
+
+  "22001149076202521":{
+
+    "nome": "LUCAS TREVIA DE OLIVEIRA",
+    "data": "14/10/2025",
+    "matricula": ["97944164"],
+    "titulacao_atual": "Especialização",
+    "titulacao_almejada": "Mestrado",
+    "diploma": [10, 11],
+    "parecer_cepro": 20,
+    "doe": 23,
+    "repercussao_financeira_pg_01": 25,
+    "repercussao_financeira_pg_02": 26,
+    "declaracao_orcamentaria": 35,
+    "parecer_asjur": [37, 41],
+    "portaria": 42,
+    "oficio": 43
+
+
+  },
+
+  "22001148709202584":{
+
+    "nome": "MICHELE BRUNA DE SOUSA SILVA GAL",
+    "data": "13/10/2025",
+    "matricula": ["30440617"],
+    "titulacao_atual": "Mestrado",
+    "titulacao_almejada": "Doutorado",
+    "declaracao_conclusao_curso": 23,
+    "parecer_cepro": 26,
+    "doe": [29, 30],
+    "repercussao_financeira_pg_01": 32,
+    "repercussao_financeira_pg_02": 33,
+    "declaracao_orcamentaria": 42,
+    "parecer_asjur": [44, 48],
+    "portaria": 49,
+    "oficio": 50
+
+  },
+
+  "22001147262202526":{
+    "nome": "FRANCISCO ÁTILA LELES MAGALHÃES",
+    "data": "09/10/2025",
+    "matricula": ["97935742"],
+    "titulacao_atual": "Especialização",
+    "titulacao_almejada": "Mestrado",
+    "declaracao_conclusao_curso": 11,
+    "parecer_cepro": 23,
+    "doe": 26,
+    "repercussao_financeira_pg_01": 28,
+    "repercussao_financeira_pg_02": 29,
+    "declaracao_orcamentaria": 38,
+    "parecer_asjur": [40, 44],
+    "portaria": 45,
+    "oficio": 46
+  },
+
+  "22001140497202597":{
+    "nome": "CLESSIO PINHO FROTA",
+    "data": "25/09/2025",
+    "matricula": ["97947317"],
+    "titulacao_atual": "Especialização",
+    "titulacao_almejada": "Mestrado",
+    "declaracao_conclusao_curso": 32,
+    "parecer_cepro": 33,
+    "doe": [36, 37],
+    "repercussao_financeira_pg_01": 39,
+    "repercussao_financeira_pg_02": 40,
+    "declaracao_orcamentaria": 49,
+    "parecer_asjur": [51, 55],
+    "portaria": 56,
+    "oficio": 57
+  },
+
+  "22001138187202511":{
+    "nome": "GABRIEL CAMILO TELES DE MENEZES",
+    "data": "22/09/2025",
+    "matricula": ["97939624"],
+    "titulacao_atual": "Especialização",
+    "titulacao_almejada": "Mestrado",
+    "declaracao_conclusao_curso": 25,
+    "parecer_cepro": 33,
+    "doe": 36,
+    "repercussao_financeira_pg_01": 38,
+    "repercussao_financeira_pg_02": 39,
+    "declaracao_orcamentaria": 48,
+    "parecer_asjur": [51, 55],
+    "portaria": 56,
+    "oficio": 57
+  },
+
+  "22001136096202532":{
+    "nome": "GUILHERME COELHO COSTA",
+    "data": "17/09/2025",
+    "matricula": ["97947600"],
+    "titulacao_atual": "Licenciatura Plena",
+    "titulacao_almejada": "Mestrado",
+    "declaracao_conclusao_curso": 28,
+    "parecer_cepro": [32, 33],
+    "doe": 35,
+    "repercussao_financeira_pg_01": 37,
+    "repercussao_financeira_pg_02": 38,
+    "declaracao_orcamentaria": 47,
+    "parecer_asjur": [49, 53],
+    "portaria": 54,
+    "oficio": [55, 56]
+  },
+
+  "22001133782202551":{
+    "nome": "ELIZEU AGUIAR SILVA",
+    "data": "11/09/2025",
+    "matricula": ["30251210"],
+    "titulacao_atual": "Especialização",
+    "titulacao_almejada": "Mestrado",
+    "declaracao_conclusao_curso": 34,
+    "parecer_cepro": [38, 39],
+    "doe": 41,
+    "repercussao_financeira_pg_01": 43,
+    "repercussao_financeira_pg_02": 44,
+    "declaracao_orcamentaria": 53,
+    "parecer_asjur": [55, 59],
+    "portaria": 60,
+    "oficio": [61, 62]
+  },
+
+  "22001124265202591":{
+    "nome": "LEONARDO HENRIQUE TORRES DA COSTA",
+    "data": "27/08/2025",
+    "matricula": ["48261787"],
+    "titulacao_atual": "Licenciatura Plena",
+    "titulacao_almejada": "Especialização",
+    "diploma": [10, 11],
+    "parecer_cepro": [14, 15],
+    "doe": 17,
+    "repercussao_financeira_pg_01": 19,
+    "repercussao_financeira_pg_02": 20,
+    "declaracao_orcamentaria": 29,
+    "parecer_asjur": [31, 35],
+    "portaria": 36,
+    "oficio": [37, 38]
+  },
+
+   "22001122925202508":{
+    "nome": "FRANCISCO FABIO DE ALBUQUERQUE",
+    "data": "25/08/2025",
+    "matricula": ["47931312"],
+    "titulacao_atual": "Licenciatura Plena",
+    "titulacao_almejada": "Mestrado",
+    "declaracao_conclusao_curso": 22,
+    "parecer_cepro": [24, 25],
+    "doe": 27,
+    "repercussao_financeira_pg_01": 29,
+    "repercussao_financeira_pg_02": 30,
+    "declaracao_orcamentaria": 39,
+    "parecer_asjur": [41, 45],
+    "portaria": 46,
+    "oficio": [47, 48]
+  },
+
+  "22001116168202525":{
+    "nome": "HUGO FERREIRA ALVES",
+    "data": "12/08/2025",
+    "matricula": ["97935629"],
+    "titulacao_atual": "Licenciatura Plena",
+    "titulacao_almejada": "Especialização",
+    "diploma": 13,
+    "parecer_cepro": [19, 20],
+    "doe": 22,
+    "repercussao_financeira_pg_01": 24,
+    "repercussao_financeira_pg_02": 25,
+    "declaracao_orcamentaria": 34,
+    "parecer_asjur": [36, 40],
+    "portaria": 41,
+    "oficio": [42, 43]
+  },
+
+  "22001111463202595":{
+    "nome": "CLARA NASSIF JABER MAGALHAES",
+    "data": "05/08/2025",
+    "matricula": ["48263070"],
+    "titulacao_atual": "Licenciatura Plena",
+    "titulacao_almejada": "Especialização",
+    "diploma": 13,
+    "parecer_cepro": [17, 19],
+    "doe": 20,
+    "repercussao_financeira_pg_01": 22,
+    "repercussao_financeira_pg_02": 23,
+    "declaracao_orcamentaria": 32,
+    "parecer_asjur": [35, 39],
+    "portaria": 40,
+    "oficio": [41]
+  },
+
+  "22001109564202504":{
+    "nome": "LENISVALDO ALVES CANUTO",
+    "data": "01/08/2025",
+    "matricula": ["4826168X"],
+    "titulacao_atual": "Especialização",
+    "titulacao_almejada": "Mestrado",
+    "declaracao_conclusao_curso": 9,
+    "parecer_cepro": [20, 21],
+    "doe": 23,
+    "repercussao_financeira_pg_01": 25,
+    "repercussao_financeira_pg_02": 26,
+    "declaracao_orcamentaria": 35,
+    "parecer_asjur": [37, 40],
+    "portaria": 41,
+    "oficio": [42, 43]
+  },
+
+
+  
+  "22001109241202511":{
+    "nome": "ANTONIA MORGANA GOMES MOREIRA",
+    "data": "01/08/2025",
+    "matricula": ["30489810"],
+    "titulacao_atual": "Especialização",
+    "titulacao_almejada": "Mestrado",
+    "declaracao_conclusao_curso": 20,
+    "parecer_cepro": [25, 26],
+    "doe": 28,
+    "repercussao_financeira_pg_01": 30,
+    "repercussao_financeira_pg_02": 31,
+    "declaracao_orcamentaria": 40,
+    "parecer_asjur": [42, 46],
+    
+    "oficio": 47,
+    "parecer_negativo": true
+  },
+
+  "22001107823202554":{
+    "nome": "MARCOS MANOEL SILVA SEVERIANO",
+    "data": "30/07/2025",
+    "matricula": ["48259693"],
+    "titulacao_atual": "Especialização",
+    "titulacao_almejada": "Mestrado",
+    "declaracao_conclusao_curso": 18,
+    "parecer_cepro": [36, 38],
+    "doe": 39,
+    "repercussao_financeira_pg_01": 41,
+    "repercussao_financeira_pg_02": 42,
+    "declaracao_orcamentaria": 51,
+    "parecer_asjur": [53, 57],
+    "portaria": 58,
+    "oficio": [59]
+  },
+
+  "22001102179202528":{
+    "nome": "JULIANA BORGES TRIGUEIRO DE SOUZA",
+    "data": "04/07/2025",
+    "matricula": ["30453417"],
+    "titulacao_atual": "Especialização",
+    "titulacao_almejada": "Mestrado",
+   
+    "parecer_cepro": [20, 21],
+    "doe": [23, 24],
+    "repercussao_financeira_pg_01": 26,
+    "repercussao_financeira_pg_02": 27,
+    "declaracao_orcamentaria": 36,
+    "parecer_asjur": [38, 42],
+    "portaria": 43,
+    "oficio": [44],
+    
+    "parecer_negativo": true
+  },
+
+  "22001094786202515":{
+    "nome": "RENATO DIAS DOS SANTOS",
+    "data": "13/06/2025",
+    "matricula": ["97947678"],
+    "titulacao_atual": "Licenciatura Plena",
+    "titulacao_almejada": "Especialização",
+    "diploma": 8,
+    "parecer_cepro": [21, 22],
+    "doe": 24,
+    "repercussao_financeira_pg_01": 26,
+    "repercussao_financeira_pg_02": 27,
+    "declaracao_orcamentaria": 36,
+    "parecer_asjur": [38, 42],
+    "portaria": 43,
+    "oficio": [44, 45]
+   
+  },
+
+  "22001094593202556":{
+    "nome": "FERNANDA BARROS BELEM",
+    "data": "13/06/2025",
+    "matricula": ["97947325"],
+    "titulacao_atual": "Licenciatura Plena",
+    "titulacao_almejada": "Especialização",
+    "diploma": [10, 11],
+    "parecer_cepro": [14, 15],
+    "doe": 17,
+    "repercussao_financeira_pg_01": 19,
+    "repercussao_financeira_pg_02": 20,
+    "declaracao_orcamentaria": 29,
+    "parecer_asjur": [31, 35],
+    "portaria": 36,
+    "oficio": 37
+   
+  }
+
+}
+
+
+
+
+
+}
