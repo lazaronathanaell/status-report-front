@@ -41,7 +41,10 @@ def agrupar_repercussao(doc_map):
 
 # === Processa cada NUP do índice agrupado por mês ===
 
-for month, month_docs in list(index.items())[:1]:  # Limita a um mês para teste
+# medir o tempo total de execução
+import time
+start_time = time.time()
+for month, month_docs in list(index.items()):  # Limita a um mês para teste
     if not isinstance(month_docs, dict):
         continue
 
@@ -55,6 +58,12 @@ for month, month_docs in list(index.items())[:1]:  # Limita a um mês para teste
         out_dir = os.path.join(output_root, nup)
         os.makedirs(out_dir, exist_ok=True)
 
+        for subdir in ["pdfs", "extracted_json", "extracted_md"]:
+            os.makedirs(os.path.join(out_dir, subdir), exist_ok=True)
+
+        pdf_dir = os.path.join(out_dir, "pdfs")
+        json_dir = os.path.join(out_dir, "extracted_json")
+        md_dir = os.path.join(out_dir, "extracted_md")
        
 
         for doc_name, pages in doc_map.items():
@@ -85,7 +94,7 @@ for month, month_docs in list(index.items())[:1]:  # Limita a um mês para teste
                     print(f"[❌] Página {p} não existe em {pdf_path}")
                     continue
 
-            output_file = os.path.join(out_dir, f"{doc_name}.pdf")
+            output_file = os.path.join(pdf_dir, f"{doc_name}.pdf")
             with open(output_file, "wb") as f_out:
                 writer.write(f_out)
 
@@ -115,11 +124,18 @@ for month, month_docs in list(index.items())[:1]:  # Limita a um mês para teste
                 }
             }
 
-            json_output_file = os.path.join(out_dir, f"{doc_name}.json")
+            json_output_file = os.path.join(json_dir, f"{doc_name}.json")
             with open(json_output_file, "w", encoding="utf-8") as f_json:
                 json.dump(result_data, f_json, ensure_ascii=False, indent=4)
-            
+
+            for i, text in enumerate(extracted_text):
+                md_output_file = os.path.join(md_dir, f"{doc_name}_{i}.md")
+                with open(md_output_file, "w", encoding="utf-8") as f_md:
+                    if isinstance(text, str):
+                        f_md.write(text)
 
 
 
 print("🏁 Finalizado com sucesso!")
+end_time = time.time()
+print(f" Tempo total de execução: {end_time - start_time:.2f} segundos")
