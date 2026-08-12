@@ -19,4 +19,3 @@ python generate_separate_docs.py
 ```
 Then the separated documents will be on folder data/separated_docs.
 
-For preprocessing, ...
