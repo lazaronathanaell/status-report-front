@@ -1,0 +1,17 @@
+{
+  "name": "validacao-local",
+  "continue_on_error": true,
+  "remove_model_after_group": true,
+  "model_keep_alive": "-1",
+  "models": [
+    "gemma3:4b"
+  ],
+  "processes": [
+    {
+      "process_id": "22001149961202519",
+      "input_dir": "data/22001149961202519/pdfs",
+      "reference_dir": "data/22001149961202519/ground_truth",
+      "profile": "data/22001149961202519/profile.json"
+    }
+  ]
+}

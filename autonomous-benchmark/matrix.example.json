@@ -1,0 +1,21 @@
+{
+  "name": "tres-modelos-oito-processos",
+  "continue_on_error": true,
+  "remove_model_after_group": true,
+  "model_keep_alive": "-1",
+  "models": [
+    "gemma3:4b",
+    "qwen3:4b",
+    "llama3.2:3b"
+  ],
+  "processes": [
+    {"process_id": "22001135305202440", "input_dir": "data/22001135305202440/pdfs", "reference_dir": "data/22001135305202440/ground_truth", "profile": "data/22001135305202440/profile.json"},
+    {"process_id": "22001127982202494", "input_dir": "data/22001127982202494/pdfs", "reference_dir": "data/22001127982202494/ground_truth", "profile": "data/22001127982202494/profile.json"},
+    {"process_id": "22001136845202441", "input_dir": "data/22001136845202441/pdfs", "reference_dir": "data/22001136845202441/ground_truth", "profile": "data/22001136845202441/profile.json"},
+    {"process_id": "22001108391202418", "input_dir": "data/22001108391202418/pdfs", "reference_dir": "data/22001108391202418/ground_truth", "profile": "data/22001108391202418/profile.json"},
+    {"process_id": "22001003390202569", "input_dir": "data/22001003390202569/pdfs", "reference_dir": "data/22001003390202569/ground_truth", "profile": "data/22001003390202569/profile.json"},
+    {"process_id": "22001114029202486", "input_dir": "data/22001114029202486/pdfs", "reference_dir": "data/22001114029202486/ground_truth", "profile": "data/22001114029202486/profile.json"},
+    {"process_id": "22001128428202424", "input_dir": "data/22001128428202424/pdfs", "reference_dir": "data/22001128428202424/ground_truth", "profile": "data/22001128428202424/profile.json"},
+    {"process_id": "22001003125202581", "input_dir": "data/22001003125202581/pdfs", "reference_dir": "data/22001003125202581/ground_truth", "profile": "data/22001003125202581/profile.json"}
+  ]
+}
