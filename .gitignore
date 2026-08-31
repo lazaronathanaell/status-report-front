@@ -9,3 +9,4 @@ notebooks/
 pipeline_question_answering/data
 docs/
 data/
+index.json
